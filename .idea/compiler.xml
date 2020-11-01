@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tuantuan-ware" />
+        <module name="tuantuan-order" />
+        <module name="tuantuan-member" />
+        <module name="tuantuan-product" />
+        <module name="tuantuan-coupon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tuantuan-coupon" target="1.8" />
+      <module name="tuantuan-member" target="1.8" />
+      <module name="tuantuan-order" target="1.8" />
+      <module name="tuantuan-product" target="1.8" />
+      <module name="tuantuan-ware" target="1.8" />
+      <module name="tuantuanmail" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tuantuan-coupon" options="-parameters" />
+      <module name="tuantuan-member" options="-parameters" />
+      <module name="tuantuan-order" options="-parameters" />
+      <module name="tuantuan-product" options="-parameters" />
+      <module name="tuantuan-ware" options="-parameters" />
+    </option>
+  </component>
+</project>
