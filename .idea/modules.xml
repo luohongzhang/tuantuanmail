@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-common/tuantuan-common.iml" filepath="$PROJECT_DIR$/tuantuan-common/tuantuan-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-coupon/tuantuan-coupon.iml" filepath="$PROJECT_DIR$/tuantuan-coupon/tuantuan-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuantuan-gateway/tuantuan-gateway.iml" filepath="$PROJECT_DIR$/tuantuan-gateway/tuantuan-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-member/tuantuan-member.iml" filepath="$PROJECT_DIR$/tuantuan-member/tuantuan-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-order/tuantuan-order.iml" filepath="$PROJECT_DIR$/tuantuan-order/tuantuan-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-product/tuantuan-product.iml" filepath="$PROJECT_DIR$/tuantuan-product/tuantuan-product.iml" />

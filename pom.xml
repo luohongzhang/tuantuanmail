@@ -17,6 +17,7 @@
 		<module>renren-fast</module>
 		<module>renren-generator</module>
 		<module>tuantuan-common</module>
+		<module>tuantuan-gateway</module>
 	</modules>
 
 </project>

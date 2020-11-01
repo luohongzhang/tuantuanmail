@@ -9,6 +9,7 @@
         <module name="tuantuan-common" />
         <module name="tuantuan-order" />
         <module name="tuantuan-member" />
+        <module name="tuantuan-gateway" />
         <module name="tuantuan-product" />
         <module name="tuantuan-coupon" />
         <module name="tuantuan-ware" />
@@ -21,6 +22,7 @@
       <module name="renren-generator" target="1.8" />
       <module name="tuantuan-common" target="1.8" />
       <module name="tuantuan-coupon" target="1.8" />
+      <module name="tuantuan-gateway" target="1.8" />
       <module name="tuantuan-member" target="1.8" />
       <module name="tuantuan-order" target="1.8" />
       <module name="tuantuan-product" target="1.8" />
@@ -33,6 +35,7 @@
       <module name="renren-fast" options="-parameters" />
       <module name="renren-generator" options="-parameters" />
       <module name="tuantuan-coupon" options="-parameters" />
+      <module name="tuantuan-gateway" options="-parameters" />
       <module name="tuantuan-member" options="-parameters" />
       <module name="tuantuan-order" options="-parameters" />
       <module name="tuantuan-product" options="-parameters" />
