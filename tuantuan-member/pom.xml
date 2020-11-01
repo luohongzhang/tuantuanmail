@@ -12,7 +12,7 @@
 	<artifactId>tuantuan-member</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tuantuan-member</name>
-	<description>团团商城-订单服务</description>
+	<description>团团商城-会员服务</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -20,6 +20,12 @@
 	</properties>
 
 	<dependencies>
+
+		<dependency>
+			<groupId>com.luohz.tuantuan</groupId>
+			<artifactId>tuantuan-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>

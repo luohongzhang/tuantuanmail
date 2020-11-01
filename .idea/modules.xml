@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuantuan-common/tuantuan-common.iml" filepath="$PROJECT_DIR$/tuantuan-common/tuantuan-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-coupon/tuantuan-coupon.iml" filepath="$PROJECT_DIR$/tuantuan-coupon/tuantuan-coupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-member/tuantuan-member.iml" filepath="$PROJECT_DIR$/tuantuan-member/tuantuan-member.iml" />
       <module fileurl="file://$PROJECT_DIR$/tuantuan-order/tuantuan-order.iml" filepath="$PROJECT_DIR$/tuantuan-order/tuantuan-order.iml" />

@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tuantuan-ware" />
+        <module name="tuantuan-common" />
         <module name="tuantuan-order" />
         <module name="tuantuan-member" />
         <module name="tuantuan-product" />
         <module name="tuantuan-coupon" />
+        <module name="tuantuan-ware" />
+        <module name="renren-fast" />
+        <module name="renren-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="renren-fast" target="1.8" />
+      <module name="renren-generator" target="1.8" />
+      <module name="tuantuan-common" target="1.8" />
       <module name="tuantuan-coupon" target="1.8" />
       <module name="tuantuan-member" target="1.8" />
       <module name="tuantuan-order" target="1.8" />
@@ -24,6 +30,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="renren-fast" options="-parameters" />
+      <module name="renren-generator" options="-parameters" />
       <module name="tuantuan-coupon" options="-parameters" />
       <module name="tuantuan-member" options="-parameters" />
       <module name="tuantuan-order" options="-parameters" />
