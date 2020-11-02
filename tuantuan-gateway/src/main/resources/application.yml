@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://8.131.77.104:3306/tuantuan_ums
+    driver-class-name: com.mysql.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
