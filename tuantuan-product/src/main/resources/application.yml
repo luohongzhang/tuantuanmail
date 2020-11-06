@@ -4,8 +4,8 @@ spring:
     password: root
     url: jdbc:mysql://8.131.77.104:3306/tuantuan_pms
     driver-class-name: com.mysql.jdbc.Driver
-#  application:
-#    name: tuantuan-product
+  application:
+    name: tuantuan-product
 
   cloud:
     nacos:

@@ -8,7 +8,7 @@
 
 package com.luohz.common.xss;
 
-import io.renren.common.exception.RRException;
+import com.luohz.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
